@@ -1,6 +1,6 @@
 # Debugging in Java using IntelliJ Q&A
 
-This Q&A document provides a comprehensive guide to debugging Java programs using IntelliJ, one of the most popular integrated development environments (IDEs) for Java development. It covers essential concepts and techniques related to debugging, aimed at helping developers effectively identify and fix bugs and unexpected behaviors in their Java code.
+This Q&A document provides answers to assigned questions about debugging Java programs using IntelliJ. It covers essential concepts and techniques related to debugging, aimed at helping developers effectively identify and fix bugs and unexpected behaviors in their Java code.
 
 ## Contents
 
